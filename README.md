@@ -11,3 +11,5 @@
 [04-文本表示_从one-hot到word2vec](https://github.com/zhl410/datawhale_nlp/blob/master/04-%E6%96%87%E6%9C%AC%E8%A1%A8%E7%A4%BA_%E4%BB%8Eone-hot%E5%88%B0word2vec/04-%E6%96%87%E6%9C%AC%E8%A1%A8%E7%A4%BA_%E4%BB%8Eone-hot%E5%88%B0word2vec.ipynb) 负采样（学习采样方法）和 层次softmax 待续。。。
 
 [05-NB_SVM_LDA](https://github.com/zhl410/datawhale_nlp/blob/master/05-NB_SVM_LDA/05-NB_SVM_LDA.ipynb)
+
+[06-神经网络基础]
