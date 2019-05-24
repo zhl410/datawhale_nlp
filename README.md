@@ -13,3 +13,5 @@
 [05-NB_SVM_LDA](https://github.com/zhl410/datawhale_nlp/blob/master/05-NB_SVM_LDA/05-NB_SVM_LDA.ipynb)
 
 [06-神经网络基础](https://github.com/zhl410/datawhale_nlp/blob/master/06-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/06-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.ipynb)
+
+[07-卷积神经网络](https://github.com/zhl410/datawhale_nlp/blob/master/07-%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/07-%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
